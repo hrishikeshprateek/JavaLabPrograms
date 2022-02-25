@@ -9,7 +9,6 @@ public class Threads {
 }
 
 class TaskEvenOdd implements Runnable {
-
     private int max;
     private Printer print;
     private boolean isEvenNumber;
